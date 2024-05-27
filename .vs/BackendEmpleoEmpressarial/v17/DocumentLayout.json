@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|c:\\users\\joric\\documents\\rps\\backendempleoempressarial\\backendempleoempressarial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|solutionrelative:backendempleoempressarial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|c:\\users\\joric\\documents\\rps\\backendempleoempressarial\\backendempleoempressarial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|solutionrelative:backendempleoempressarial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|c:\\users\\joric\\documents\\rps\\backendempleoempressarial\\backendempleoempressarial\\aplication\\user\\userappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|solutionrelative:backendempleoempressarial\\aplication\\user\\userappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|c:\\users\\joric\\documents\\rps\\backendempleoempressarial\\backendempleoempressarial\\domain\\user\\userdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|solutionrelative:backendempleoempressarial\\domain\\user\\userdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|c:\\users\\joric\\documents\\rps\\backendempleoempressarial\\backendempleoempressarial\\domain\\user\\iuserdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|solutionrelative:backendempleoempressarial\\domain\\user\\iuserdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|c:\\users\\joric\\documents\\rps\\backendempleoempressarial\\backendempleoempressarial\\domain\\statusemploymentuser\\istatusemploymentuserdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|solutionrelative:backendempleoempressarial\\domain\\statusemploymentuser\\istatusemploymentuserdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|c:\\users\\joric\\documents\\rps\\backendempleoempressarial\\backendempleoempressarial\\domain\\statusemploymentuser\\statusemploymentuserdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|solutionrelative:backendempleoempressarial\\domain\\statusemploymentuser\\statusemploymentuserdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|c:\\users\\joric\\documents\\rps\\backendempleoempressarial\\backendempleoempressarial\\aplication\\employment\\employmentappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|solutionrelative:backendempleoempressarial\\aplication\\employment\\employmentappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|c:\\users\\joric\\documents\\rps\\backendempleoempressarial\\backendempleoempressarial\\domain\\employment\\employmentdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|solutionrelative:backendempleoempressarial\\domain\\employment\\employmentdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|c:\\users\\joric\\documents\\rps\\backendempleoempressarial\\backendempleoempressarial\\domain\\employment\\iemploymentdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918E4414-92C9-4414-AD92-A006913FBA94}|BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial.csproj|solutionrelative:backendempleoempressarial\\domain\\employment\\iemploymentdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendEmpleoEmpressarial\\appsettings.json",
+              "ToolTip": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\appsettings.json",
+              "RelativeToolTip": "BackendEmpleoEmpressarial\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T16:22:38.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDomainService.cs",
+              "DocumentMoniker": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Domain\\User\\UserDomainService.cs",
+              "RelativeDocumentMoniker": "BackendEmpleoEmpressarial\\Domain\\User\\UserDomainService.cs",
+              "ToolTip": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Domain\\User\\UserDomainService.cs",
+              "RelativeToolTip": "BackendEmpleoEmpressarial\\Domain\\User\\UserDomainService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:11:02.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserDomainService.cs",
+              "DocumentMoniker": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Domain\\User\\IUserDomainService.cs",
+              "RelativeDocumentMoniker": "BackendEmpleoEmpressarial\\Domain\\User\\IUserDomainService.cs",
+              "ToolTip": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Domain\\User\\IUserDomainService.cs",
+              "RelativeToolTip": "BackendEmpleoEmpressarial\\Domain\\User\\IUserDomainService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:10:49.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAppService.cs",
+              "DocumentMoniker": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Aplication\\User\\UserAppService.cs",
+              "RelativeDocumentMoniker": "BackendEmpleoEmpressarial\\Aplication\\User\\UserAppService.cs",
+              "ToolTip": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Aplication\\User\\UserAppService.cs",
+              "RelativeToolTip": "BackendEmpleoEmpressarial\\Aplication\\User\\UserAppService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:10:27.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatusEmploymentUserDomainService.cs",
+              "DocumentMoniker": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Domain\\StatusEmploymentUser\\StatusEmploymentUserDomainService.cs",
+              "RelativeDocumentMoniker": "BackendEmpleoEmpressarial\\Domain\\StatusEmploymentUser\\StatusEmploymentUserDomainService.cs",
+              "ToolTip": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Domain\\StatusEmploymentUser\\StatusEmploymentUserDomainService.cs",
+              "RelativeToolTip": "BackendEmpleoEmpressarial\\Domain\\StatusEmploymentUser\\StatusEmploymentUserDomainService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:05:17.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStatusEmploymentUserDomainService.cs",
+              "DocumentMoniker": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Domain\\StatusEmploymentUser\\IStatusEmploymentUserDomainService.cs",
+              "RelativeDocumentMoniker": "BackendEmpleoEmpressarial\\Domain\\StatusEmploymentUser\\IStatusEmploymentUserDomainService.cs",
+              "ToolTip": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Domain\\StatusEmploymentUser\\IStatusEmploymentUserDomainService.cs",
+              "RelativeToolTip": "BackendEmpleoEmpressarial\\Domain\\StatusEmploymentUser\\IStatusEmploymentUserDomainService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:05:01.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Program.cs",
+              "RelativeDocumentMoniker": "BackendEmpleoEmpressarial\\Program.cs",
+              "ToolTip": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Program.cs",
+              "RelativeToolTip": "BackendEmpleoEmpressarial\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:02:37.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmploymentDomainService.cs",
+              "DocumentMoniker": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Domain\\Employment\\IEmploymentDomainService.cs",
+              "RelativeDocumentMoniker": "BackendEmpleoEmpressarial\\Domain\\Employment\\IEmploymentDomainService.cs",
+              "ToolTip": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Domain\\Employment\\IEmploymentDomainService.cs",
+              "RelativeToolTip": "BackendEmpleoEmpressarial\\Domain\\Employment\\IEmploymentDomainService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:44:20.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmploymentAppService.cs",
+              "DocumentMoniker": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Aplication\\Employment\\EmploymentAppService.cs",
+              "RelativeDocumentMoniker": "BackendEmpleoEmpressarial\\Aplication\\Employment\\EmploymentAppService.cs",
+              "ToolTip": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Aplication\\Employment\\EmploymentAppService.cs",
+              "RelativeToolTip": "BackendEmpleoEmpressarial\\Aplication\\Employment\\EmploymentAppService.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAawOAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:41.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmploymentDomainService.cs",
+              "DocumentMoniker": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Domain\\Employment\\EmploymentDomainService.cs",
+              "RelativeDocumentMoniker": "BackendEmpleoEmpressarial\\Domain\\Employment\\EmploymentDomainService.cs",
+              "ToolTip": "C:\\Users\\joric\\Documents\\RPS\\BackendEmpleoEmpressarial\\BackendEmpleoEmpressarial\\Domain\\Employment\\EmploymentDomainService.cs",
+              "RelativeToolTip": "BackendEmpleoEmpressarial\\Domain\\Employment\\EmploymentDomainService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwEEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:38:05.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
