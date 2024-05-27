@@ -19,3 +19,36 @@ Asegúrate de seguir estos pasos para evitar problemas:
 1. Configura la cadena de conexión con el nombre de tu servidor.
 2. La base de datos debe llamarse "EmpleoEmpresarial" para garantizar la coherencia entre los modelos creados.
 
+# Información de Registros en la Base de Datos
+
+## Usuarios Tipo Empresa
+
+1. **EmpresaUno**
+   - **Contraseña:** admin
+   - **Ofertas Publicadas:** 2
+
+2. **EmpresaDos**
+   - **Contraseña:** admin
+   - **Ofertas Publicadas:** 1
+
+## Usuarios Tipo Persona
+
+1. **PersonaUno**
+   - **Contraseña:** admin
+
+2. **PersonaDos**
+   - **Contraseña:** admin
+
+Cada usuario puede ver las 3 ofertas laborales.
+
+Además, hay registros de tablas maestras.
+
+
+# Características Funcionales
+
+1. Utiliza .NET 8.0
+2. Utiliza Entity Framework
+3. Estructura por capas
+4. Uso de rollback
+5. Control de excepciones
+
