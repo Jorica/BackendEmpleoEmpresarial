@@ -75,8 +75,7 @@
               "RelativeToolTip": "BackendEmpleoEmpressarial\\Domain\\User\\UserDomainService.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAA3wBcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T15:11:02.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T15:11:02.858Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "BackendEmpleoEmpressarial\\Domain\\User\\IUserDomainService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T15:10:49.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T15:10:49.25Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "BackendEmpleoEmpressarial\\Aplication\\User\\UserAppService.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAAgwEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T15:10:27.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T15:10:27.786Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "BackendEmpleoEmpressarial\\Domain\\StatusEmploymentUser\\StatusEmploymentUserDomainService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T15:05:17.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T15:05:17.456Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "BackendEmpleoEmpressarial\\Domain\\StatusEmploymentUser\\IStatusEmploymentUserDomainService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T15:05:01.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T15:05:01.838Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "BackendEmpleoEmpressarial\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T15:02:37.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T15:02:37.277Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "BackendEmpleoEmpressarial\\Domain\\Employment\\IEmploymentDomainService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T14:44:20.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T14:44:20.661Z"
             },
             {
               "$type": "Document",
@@ -166,8 +159,7 @@
               "RelativeToolTip": "BackendEmpleoEmpressarial\\Aplication\\Employment\\EmploymentAppService.cs",
               "ViewState": "AQIAAM4AAAAAAAAAAAAawOAAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T14:37:41.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T14:37:41.573Z"
             },
             {
               "$type": "Document",
@@ -179,8 +171,7 @@
               "RelativeToolTip": "BackendEmpleoEmpressarial\\Domain\\Employment\\EmploymentDomainService.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAuwEEAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T14:38:05.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T14:38:05.413Z"
             }
           ]
         }
